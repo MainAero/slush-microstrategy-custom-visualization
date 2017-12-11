@@ -1,0 +1,6 @@
+<visualizations>
+  <visualization-list name="ajax">
+    <!--Defining new visualization, with style defined in stylecatalog.xml and with is-mojo="true"-->
+    <visualization id="<%= appNameSanitized %>" desc="<%= appNameSanitized %>" is-mojo="true" scope="18" style-name="<%= appNameSanitized %>"/>
+  </visualization-list>
+</visualizations>

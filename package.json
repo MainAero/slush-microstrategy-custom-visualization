@@ -1,0 +1,41 @@
+{
+    "name": "slush-microstrategy-custom-visualization",
+    "description": " A slush generator to scaffold a custom visualization js plugin for MicroStrategy",
+    "version": "0.1.0",
+    "homepage": "https://github.com/MainAero/slush-microstrategy-custom-visualization",
+    "author": {
+        "name": "mainaero",
+        "email": "mainaero@gmx.de"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/MainAero/slush-microstrategy-custom-visualization.git"
+    },
+    "bugs": {
+        "url": "https://github.com/MainAero/slush-microstrategy-custom-visualization/issues"
+    },
+    "license": "MIT",
+    "main": "slushfile.js",
+    "engines": {
+        "node": ">= 0.10.26",
+        "npm": ">=1.4.3"
+    },
+    "scripts": {
+        "test": "echo \"No tests\""
+    },
+    "dependencies": {
+        "gulp": "^3.6.2",
+        "gulp-conflict": "^0.1.1",
+        "gulp-install": "^0.1.4",
+        "gulp-rename": "^1.2.0",
+        "gulp-template": "^0.1.1",
+        "iniparser": "^1.0.5",
+        "inquirer": "^3.3.0",
+        "sanitize-filename": "^1.6.1",
+        "slush": ">=1.0.0",
+        "underscore.string": "^2.3.3"
+    },
+    "keywords": [
+        "slushgenerator"
+    ]
+}
