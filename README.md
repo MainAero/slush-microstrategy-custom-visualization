@@ -8,7 +8,7 @@
 Install `slush-microstrategy-custom-visualization` globally:
 
 ```bash
-$ npm install -g slush-microstrategy-custom-visualizations
+$ npm install -g slush-microstrategy-custom-visualization
 ```
 
 ### Usage
