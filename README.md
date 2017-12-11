@@ -13,16 +13,10 @@ $ npm install -g slush-microstrategy-custom-visualization
 
 ### Usage
 
-Create a new folder for your project:
+Run the generator (it will create a new folder based on input name):
 
 ```bash
-$ mkdir my-slush-microstrategy-custom-visualization
-```
-
-Run the generator from within the new folder:
-
-```bash
-$ cd my-slush-microstrategy-custom-visualization && slush microstrategy-custom-visualization
+$ slush microstrategy-custom-visualization
 ```
 
 ## Getting To Know Slush

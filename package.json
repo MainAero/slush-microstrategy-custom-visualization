@@ -1,7 +1,7 @@
 {
     "name": "slush-microstrategy-custom-visualization",
     "description": " A slush generator to scaffold a custom visualization js plugin for MicroStrategy",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "homepage": "https://github.com/MainAero/slush-microstrategy-custom-visualization",
     "author": {
         "name": "mainaero",
